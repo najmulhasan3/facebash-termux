@@ -1,6 +1,4 @@
-#!/bin/bash
-# Author: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+najmulhasan 
 trap 'store; exit 1;' 2
 counter=0
 counter2=20
